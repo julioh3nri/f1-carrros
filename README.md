@@ -5,7 +5,7 @@ Este é um projeto de portfólio inspirado na Fórmula 1, onde os usuários pode
 ## 🚀 Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript🏎️ F1 Portfolio
+- JavaScript
 
 ## 🎯 Funcionalidades
 - Exibição dinâmica de informações sobre cada equipe
